@@ -1,0 +1,517 @@
+{
+    "basics": {
+        "name": "Francisco Victorico Aguirre Jiménez",
+        "label": "Apasionado Diseñador UI/UX y Programador Front-end.",
+        "image": "/GG.webp",
+        "email": "francisco109623@gmail.com",
+        "phone": "+52 9513915906",
+        "url": "vicwithgg.netlify.app",
+        "summary": "+3 años de experiencia como Diseñador UI/UX. Actualmente me encuentro diseñando mi propio Kit de Diseño UI en Figma. He trabajado en diferentes entornos: desde diseñar sistemas web, sitios web, hasta el diseño y desarrollo de interfaces para empresas nacionales.",
+        "location": {
+            "address": "",
+            "postalCode": "71300",
+            "city": "Oaxaca de Juárez",
+            "countryCode": "MX",
+            "region": "México"
+        },
+        "profiles": [
+            {
+                "network": "Figma",
+                "username": "vicwithgg",
+                "url": "https://www.figma.com/@vicwithgg"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "vicwith-gg",
+                "url": "https://www.linkedin.com/in/vicwith-gg/"
+            },
+            {
+                "network": "X",
+                "username": "VicWithGG1",
+                "url": "https://twitter.com/VicWithGG1"
+            },
+            {
+                "network": "GitHub",
+                "username": "Francisco-0510",
+                "url": "https://github.com/Francisco-0510"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "Grupo Empresarial NIREJ",
+            "position": "Diseñador UI/UX - Programador Web",
+            "url": "https://hospitalangeldelmar.com.mx/",
+            "startDate": "2023-10-01",
+            "endDate": "2024-01-30",
+            "summary": "Encargado del área de Diseño UI/UX. Diseño de proyectos en los cuales implemente diversas metodologías de Diseño y a la par colaboré con el equipo de Marketing y Sistemas. Identificación de necesidades de los clientes y requisitos empresariales para generar soluciones de diseño. Diseño de prototipado de experiencia de usuarios funcionales y modernas.",
+            "highlights": [
+                "Started the company"
+            ]
+        },
+        {
+            "name": "Diseñador Freelance",
+            "position": "Diseñador UI/UX ",
+            "url": "",
+            "startDate": "2022-02-01",
+            "endDate": null ,
+            "summary": "Diseño de mi propio Kit de Diseño UX/UI en Figma VG Design UI Kit. Implementación de variables, estilos, Atomic Design y diseño responsivo para el diseño de componentes, asegurando que la librería sea escalable.",
+            "highlights": [
+                ""
+            ]
+        },
+        {
+            "name": "Desarrollador Freelance",
+            "position": "Desarrollador Web ",
+            "url": "",
+            "startDate": "2022-02-01",
+            "endDate": null,
+            "summary": "Desarrollador Web Independiente. Con enfoque en Front-end.",
+            "highlights": [
+                ""
+            ]
+        },
+        {
+            "name": "Cafetería El Zapotal",
+            "position": "Diseñador UI/UX ",
+            "url": "",
+            "startDate": "2023-05-01",
+            "endDate": "2023-06-01",
+            "summary": "Diseñe interfaces para diversos sistemas requeridos por la empresa, implementado la metodología Atomic Design",
+            "highlights": [
+                ""
+            ]
+        },
+        {
+            "name": "Universidad Tecnológica de los Valles Centrales de Oaxaca UTVCO",
+            "position": "Diseñador UI/UX - Desarrollador Web",
+            "url": "",
+            "startDate": "2019-02-01",
+            "endDate": "2022-12-01",
+            "summary": "Diseñador UI/UX y Desarrollador Web en varios proyectos a lo largo de mi carrera. Lídere una convergencia técnica entre varios proyectos para encontrar soluciones óptimas. Implemente buenas prácticas y mejoras en mis procesos y resultados de diseño, adémas de entregas en tiempo y forma",
+            "highlights": [
+                ""
+            ]
+        },
+        {
+            "name": "Foro Mujer Es Mezcal",
+            "position": "Diseñador Web",
+            "url": "",
+            "startDate": "2022-02-01",
+            "endDate": "2022-12-01",
+            "summary": "Diseñe las interfaces para la página web del Primer Foro Mujer Es Mezcal",
+            "highlights": [
+                ""
+            ]
+        },
+        {
+            "name": "Congreso BIT.MX 2023",
+            "position": "Diseñador UI/UX - Desarrollador Web",
+            "url": "",
+            "startDate": "2022-09-01",
+            "endDate": "2022-12-01",
+            "summary": "Diseñe Interfaces y Experiencia de Usuarios, implementando metodologías SCRUM, Canvan y Design Thinking. Diseñe y prototipe en baja, media y alta fidelidad usando Figma. Desarrolle el Front-end en Angular y GitHub para el control de versiones.",
+            "highlights": [
+                ""
+            ]
+        },
+        {
+            "name": "Estación de Autobuses La Solteca",
+            "position": "Diseñador Web",
+            "url": "",
+            "startDate": "2021-01-01",
+            "endDate": "2021-04-01",
+            "summary": "Diseñe y desarrolle las interfaces para el Sistema de Venta de Boletos para Empresa de Viajes La Solteca. Implemente metodologías como Kan-Ban y MDR. Realice los prototipados de baja, media y alta fidelidad en Adobe XD. ",
+            "highlights": [
+                ""
+            ]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "",
+            "position": "",
+            "url": "",
+            "startDate": "",
+            "endDate": "2013-01-01",
+            "summary": "",
+            "highlights": [
+                ""
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "Universidad Tecnológica de los Valles Centrales de Oaxaca (UTVCO)",
+            "url": "",
+            "area": "Ingeniería en Desarrollo y Gestión de Sotware Multiplataforma",
+            "studyType": "",
+            "startDate": "2021-02-01",
+            "endDate": "2022-01-01",
+            "score": "",
+            "courses": [
+                ""
+            ]
+        },
+        {
+            "institution": "Universidad Tecnológica de los Valles Centrales de Oaxaca (UTVCO)",
+            "url": "",
+            "area": "Técnico Superior Universitario (T.S.U) en Tecnológias de la Información",
+            "studyType": "",
+            "startDate": "2019-02-01",
+            "endDate": "2021-02-01",
+            "score": "",
+            "courses": [
+                ""
+            ]
+        },
+        {
+            "institution": "Instituto de Estudios de Bachillerato del Estado de Oaxaca (IEBO)",
+            "url": "https://www.uoc.edu/portal/es/index.html",
+            "area": "Bachillerato General",
+            "studyType": "Titulado",
+            "startDate": "2016-01-01",
+            "endDate": "2019-01-01",
+            "score": "",
+            "courses": [
+                ""
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "",
+            "date": "",
+            "awarder": "",
+            "summary": ""
+        }
+    ],
+    "certificates": [
+        {
+            "name": "Introducción a la ciberseguridad (CYBERSEC2021)",
+            "date": "2021-02-01",
+            "issuer": "CISCO",
+            "url": "Introduction to Cybersecurity "
+        },
+        {
+            "name": "Introduction to IoT (Learnathon2020_UTVCO)",
+            "date": "2020-02-01",
+            "issuer": "CISCO",
+            "url": "Learnathon2020_UTVCO_EsliPaolaHernandezBlas_1182303 "
+        },
+        {
+            "name": "CCNA R&S: Routing and Switching Essentials (CCNA2-UTVCO)",
+            "date": "2020-02-01",
+            "issuer": "CISCO",
+            "url": "Introduction to Cybersecurity "
+        },
+        {
+            "name": "Manejo de Procesador de Textos Digitales",
+            "date": "2019-12-01",
+            "issuer": "CONOCER",
+            "url": " ECE175-14"
+        },
+        {
+            "name": "IT ESSENTIALS (ITES2019)",
+            "date": "2019-12-01",
+            "issuer": "IT Essentials",
+            "url": "IT Essentials: PC Hardware and Software"
+        },
+        {
+            "name": "Certificado de Acreditación Introducción a las Habilidades Digitales",
+            "date": "2019-12-01",
+            "issuer": "SANTANDER / ANUIES",
+            "url": " "
+        },
+        {
+            "name": "Certificado de Participación de Programa de Clases Espejo Estructura de Datos",
+            "date": "2019-12-01",
+            "issuer": "SANTANDER / ANUIES",
+            "url": " "
+        },
+        {
+            "name": "Certificado de Acreditación Habilidades y competencias clave para el mundo Profesional",
+            "date": "2019-12-01",
+            "issuer": "SANTANDER / ANUIES",
+            "url": " "
+        }
+    ],
+    "publications": [
+        {
+            "name": "Publication",
+            "publisher": "Company",
+            "releaseDate": "2014-10-01",
+            "url": "https://publication.com",
+            "summary": "Description…"
+        }
+    ],
+    "skills": [
+        {
+            "name": "HTML",
+            "level": "Master",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend"
+            ]
+        },
+        {
+            "name": "CSS",
+            "level": "Master",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "Diseño Responsive"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "fluency": "Idioma Nativo"
+        },
+        {
+            "language": "Ingles",
+            "fluency": "Nivel B1 TOEFL ITP Assessment "
+        }
+    ],
+    "interests": [
+        {
+            "name": "Wildlife",
+            "keywords": [
+                "Ferrets",
+                "Unicorns"
+            ]
+        }
+    ],
+    "references": [
+        {
+            "name": "Jane Doe",
+            "reference": "Reference…"
+        }
+    ],
+    "projects": [
+        {
+            "name": "VG Design UI Kit",
+            "isActive": true,
+            "description": "Mi propio Kit de Diseño UI/UX ⚡️ VG Design UI Kit ",
+            "highlights":[
+                "Side Project",
+                "UI/UX Design",
+                "Figma",
+                "Atomic Design",
+                "Design Library"
+            ],
+            "url": "https://www.figma.com/community/file/1273539501651863397/vg-design-ui-kit-v1-10",
+            "figma": "https://www.figma.com/community/file/1273539501651863397/vg-design-ui-kit-v1-10"
+        },
+        {
+            "name": "CV con ASTRO Actualizado",
+            "isActive": true,
+            "description": "Curriculum Minimalista maquetado para web y pdf usando ASTRO",
+            "highlights":[
+                "Astro",
+                "Side Project",
+                "HTML",
+                "TypeScript",
+                "Node.js",
+                "GitHub"
+            ],
+            "url": "",
+            "github": "",
+            "figma": ""
+        },
+        {
+            "name": "Hospital Angel del Mar",
+            "isActive": false,
+            "description": "Rediseño de Sitio Web para Hospital Ángel del Mar.",
+            "highlights": [
+                "Diseño UX",
+                "Terminado"
+            ],
+            "url": "https://hospitalangeldelmar.com.mx/",
+            "github": ""
+        },
+        {
+            "name": "BETAJ",
+            "isActive": false,
+            "description": "Diseño de Sitio Web para empresa de Seguridad Privada BETAJ",
+            "highlights":[
+                "",
+                ""
+            ],
+            "url": "https://betaj.mx/"
+        },
+        {
+            "name": "Taller de Innovación en la Estrategía Comercial",
+            "isActive": false,
+            "description": "",
+            "highlights":[
+                "",
+                ""
+            ],
+            "url": "",
+            "github": "",
+            "figma": ""
+        },
+        {
+            "name": "Portafolio Web Personal v.1",
+            "isActive": false,
+            "description": "",
+            "highlights":[
+                "",
+                ""
+            ],
+            "url": "",
+            "github": "",
+            "figma": ""
+        },
+       
+        {
+            "name": "Portafolio Back-end developer",
+            "isActive": false,
+            "description": "Desarrollo Web de portafolio web para programador backend.",
+            "highlights":[
+                "",
+                ""
+            ],
+            "url": "",
+            "github": "",
+            "figma": ""
+        },
+        {
+            "name": "Plantilla CV ",
+            "isActive": false,
+            "description": "Diseño de Curriculum Vitae personal en Figma.",
+            "highlights":[
+                "",
+                ""
+            ],
+            "url": "",
+            "github": "",
+            "figma": ""
+        },
+        {
+            "name": "Tumbados Cap Eccomerce",
+            "isActive": false,
+            "description": "",
+            "highlights":[
+                "",
+                ""
+            ],
+            "url": "",
+            "github": "",
+            "figma": ""
+        },
+        {
+            "name": "Landing Page Maguey Oaxaca",
+            "isActive": false,
+            "description": "Estructura de Landing Page",
+            "highlights":[
+                "",
+                ""
+            ],
+            "url": "",
+            "github": "",
+            "figma": ""
+        },
+        {
+            "name": "Reloj Checador y Sistema El Zapotal",
+            "isActive": false,
+            "description": "Diseño de Sistema para Cafeteria El Zapotal",
+            "highlights":[
+                "",
+                ""
+            ],
+            "url": "",
+            "github": "",
+            "figma": ""
+        },
+        {
+            "name": "Rediseño App Móvil HealthCheck",
+            "isActive": false,
+            "description": "",
+            "highlights":[
+                "",
+                ""
+            ],
+            "url": "",
+            "github": "",
+            "figma": ""
+        },
+        {
+            "name": "Diseño para Smartwatch Healthcheck",
+            "isActive": false,
+            "description": "Diseño de Interfaces para Smartwatch",
+            "highlights":[
+                "Arquitectura de Información",
+                ""
+            ],
+            "url": "",
+            "github": "",
+            "figma": ""
+        },
+        {
+            "name": "Sistema Web de Gestión de Tutorías Escolares",
+            "isActive": false,
+            "description": "",
+            "highlights":[
+                "Arquitectura",
+                "Story Mapping"
+            ],
+            "url": "",
+            "github": "",
+            "figma": ""
+        },
+        {
+            "name": "BIT Tournament 2023",
+            "isActive": false,
+            "description": "",
+            "highlights":[
+                "",
+                ""
+            ],
+            "url": "",
+            "github": "",
+            "figma": ""
+        },
+        {
+            "name": "Sistema Venta de Boletos La Solteca",
+            "isActive": false,
+            "description": "",
+            "highlights":[
+                "Guía de Estilos",
+                "Adobe XD"
+            ],
+            "url": "",
+            "github": "",
+            "figma": ""
+        },
+        {
+            "name": "Sistema de Asesorías Escolares",
+            "isActive": false,
+            "description": "",
+            "highlights":[
+                "",
+                "Adobe XD"
+            ],
+            "url": "",
+            "github": "",
+            "figma": ""
+        },
+        {
+            "name": "Sistema de Gestión de Centros de Computo",
+            "isActive": false,
+            "description": "",
+            "highlights":[
+                "",
+                "Adobe XD"
+            ],
+            "url": "",
+            "github": "",
+            "figma": ""
+        }
+            
+            
+        
+    ]
+}
