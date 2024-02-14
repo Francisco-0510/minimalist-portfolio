@@ -3,6 +3,7 @@ import GitHub from "@/icons/GitHub.astro"
 import Section from "../Section.astro"
 import { projects } from "@cv"
 import Figma from "@/icons/Figma.astro"
+import WorldMap from "@/icons/WorldMap.astro"
 ---
 <Section title="Proyectos">
     <ul>
@@ -39,6 +40,7 @@ import Figma from "@/icons/Figma.astro"
                             <Figma />
                           </a>
                         )}
+                        
                       </h3>
                       <p>{description}</p>
                     </header>
@@ -65,7 +67,7 @@ import Figma from "@/icons/Figma.astro"
 
   article {
     border-radius: 8px;
-    border: 1px solid #f2f2f2;
+    border: 1px solid #e1e1e1;
     gap: 16px;
     display: flex;
     flex-direction: column;
@@ -108,16 +110,18 @@ import Figma from "@/icons/Figma.astro"
   }
 
   footer span {
+    display: flex;
+    justify-content: space-between;
     border-radius: 6px;
+    margin:  2px 4px;
     background: #eee;
     color: #444;
-    font-size: 0.6rem;
-    font-weight: 500;
+    font-size: 0.65rem;
+    font-weight: 600;
     padding: 0.2rem 0.6rem;
-    margin: 4px ;
   }
 
-  .github-code-link .figma-code-link {
+  .github-code-link .figma-code-link .web-code-link {
     margin-left: 5px;
   }
 
