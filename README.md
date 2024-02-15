@@ -1,3 +1,46 @@
+
+
+<div align="center">
+<img src="/public/iconVGG.svg" height="90px" width="auto" /> 
+<h2>
+    <em>Résumé</em> minimalista maquetado para web y pdf
+</h2>
+<p>
+Esquema del JSON de CV de <a href="https://jsonresume.org/schema/">jsonresume.org</a>
+</p>
+
+
+<p>
+Basado en el diseño de <a href="https://github.com/BartoszJarocki/cv">Bartosz Jarocki</a>
+
+</p>
+
+</div>
+
+<div align="center">
+    <a href="#🚀-empezar">
+        Empezar
+    </a>
+    <span>&nbsp;✦&nbsp;</span>
+    <a href="#🧞-comandos">
+        Comandos
+    </a>
+    <span>&nbsp;✦&nbsp;</span>
+    <a href="#🔑-licencia">
+        Licencia
+    </a>
+    <span>&nbsp;✦&nbsp;</span>
+    <a href="https://midu.dev">
+        Personal
+    </a>
+   
+</div>
+
+<p></p>
+
+<img src="portada.png"></img>
+
+
 # Astro Starter Kit: Basics
 
 ```sh
