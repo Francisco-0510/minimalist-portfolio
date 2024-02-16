@@ -10,7 +10,7 @@ import GitHub from "@/icons/GitHub.astro"
 import Tailwind from "@/icons/tailwind.astro"
 import Figma from "@/icons/Figma.astro"
 import Boostrap from "@/icons/Bootstrap.astro"
-import { skills } from "@cv"
+import { skills, tools, languages, others } from "@cv"
 
 
 const SKILLS_ICONS: Record<string, any> = {
@@ -27,6 +27,7 @@ const SKILLS_ICONS: Record<string, any> = {
 }
 ---
 <Section title="Habilidades">
+  <h3>Lenguajes y Frameworks</h3>
     <ul>
         {
           skills.map(({ name }) => {
@@ -35,7 +36,43 @@ const SKILLS_ICONS: Record<string, any> = {
     
             return (
               <li>
-                <span>{name} </span> / 
+                <span>{ name },</span> 
+              </li>
+            )
+          })
+        }
+      </ul>
+      <h3>Herramientas</h3>
+    <ul>
+        {
+          tools.map(({ name }) => {
+            return (
+              <li>
+                <span>{ name }, </span> 
+              </li>
+            )
+          })
+        }
+      </ul>
+      <h3>Otras</h3>
+    <ul>
+        {
+          others.map(({ name }) => {
+            return (
+              <li>
+                <span>{ name }, </span> 
+              </li>
+            )
+          })
+        }
+      </ul>
+      <h3>Idiomas</h3>
+      <ul>
+        {
+          languages.map(({ language, fluency }) => {
+            return (
+              <li>
+                <span>{ language } ({fluency}),  </span> 
               </li>
             )
           })
@@ -46,20 +83,22 @@ const SKILLS_ICONS: Record<string, any> = {
 <style>
     ul {
       display: inline-flex;
-      gap: 8px;
       flex-wrap: wrap;
+      gap: 0px .5em;
+      text-wrap: pretty;
+      margin-bottom: 8px;
     }
   
     li {
-      align-items: center;
-      border-radius: 6px;
-      color: #474747;
-      display: flex;
-      font-size: .9rem;
-      font-family: Visuelt Pro,Helvetica,Arial,sans-serif;
-      font-weight: 500;
-      line-height: 1.75rem;
-      gap: 4px;
-      padding-inline: 4px;
+    color: #444;
+    font-size: 0.875rem;
+    line-height: 1.5rem;
+    font-weight: 500;
+    margin-bottom:   4px ;
+    }
+    h3{
+      color: #222;
+    font-weight: 600;
+    line-height: 1.5;
     }
   </style>

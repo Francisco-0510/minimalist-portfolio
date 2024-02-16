@@ -1,0 +1,104 @@
+---
+import Section from "../Section.astro"
+import { certificates } from "@cv"
+---
+<Section title="Certificados">
+    <ul>
+        {
+          certificates.map(
+            ({ name, date, issuer, url }) => {
+              return (
+                <li>
+                  <article>
+                        <time >
+                            {date}
+                        </time>
+                        <span>{issuer}</span>
+                    <header>
+                      <h4>
+                          {name}
+                      </h4>
+                    </header>
+                  </article>
+                </li>
+              )
+            }
+          )
+        }
+      </ul>
+</Section>
+<style>
+     ul {
+    display: grid;
+    grid-template-columns: 1fr 1fr;  
+    gap: 1rem;
+    margin: auto;
+  }
+
+  article {
+    border-radius: 8px;
+    border: 1px solid #e1e1e1;
+    gap: 8px;
+    display: flex;
+    flex-direction: column;
+    padding: 8px 16px;
+    height: 100%;
+  }
+
+  article header {
+    flex: 1;
+  }
+  article h4 {
+    color: #222;
+    font-weight: 600;
+    line-height: 1.5;
+    text-wrap: pretty;
+    font-size: 0.85rem;
+  }
+/*   article h3 {
+    font-weight: 600;
+    margin-bottom: 4px;
+    line-height: 1.5;
+  } */
+
+  article a {
+    color: #111;
+  }
+
+  article a:hover {
+    text-decoration: underline;
+  }
+
+ time{
+    text-align: left;
+    color: #555;
+    font-size: 0.75rem;
+    font-weight: 500;
+ }
+
+
+  span{
+    width: fit-content;
+    border-radius: 25px;
+    border: 1px solid #c6c6c6;
+    /* background: #eee; */
+    color: #111;
+    font-size: 0.65rem;
+    font-weight: 600;
+    padding: 0.2rem 0.6rem;
+  }
+  
+
+  @media (width <= 700px) {
+    ul {
+      margin-inline: 0px;
+    }
+
+   article {
+    border: none;
+    gap: .5rem;
+      box-shadow: 0 1px 1px #f2f2f2;
+      padding: 0 0 16px 0;
+    } 
+  }
+</style>

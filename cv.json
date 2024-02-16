@@ -5,7 +5,7 @@
         "image": "/GG.webp",
         "email": "francisco109623@gmail.com",
         "phone": "+52 9513915906",
-        "url": "vicwithgg.netlify.app",
+        "url": "https://vicwithgg-portfolio.netlify.app/",
         "summary": "+3 años de experiencia como Diseñador UI/UX. Actualmente me encuentro diseñando mi propio Kit de Diseño UI en Figma. He trabajado en diferentes entornos: desde diseñar sistemas web, sitios web, hasta el diseño y desarrollo de interfaces para empresas nacionales.",
         "location": {
             "address": "",
@@ -245,6 +245,41 @@
             "summary": "Description…"
         }
     ],
+    "tools": [
+        {
+            "name": "Figma",
+            "level": "Avanzado"
+        },
+        {
+            "name": "Adobe XD",
+            "level": "Avanzado"
+        },
+        {
+            "name": "Webflow",
+            "level": "Intermedio"
+        },
+        {
+            "name": "VS Code",
+            "level": "Intermedio"
+        },
+        {
+            "name": "Github",
+            "level": "Intermedio"
+        },
+        {
+            "name": "Git",
+            "level": "Intermedio"
+        },
+        {
+            "name": "Microsoft Office",
+            "level": "Intermedio - Avanzado"
+        },
+        {
+            "name": "Wireframmes",
+            "level": "Intermedio - Avanzado"
+        }
+
+    ],
     "skills": [
         {
             "name": "HTML 5",
@@ -304,7 +339,7 @@
             ]
         },
         {
-            "name": "Figma",
+            "name": "ASTRO",
             "level": "",
             "keywords": [
                 "",
@@ -312,7 +347,7 @@
             ]
         },
         {
-            "name": "Adobe XD",
+            "name": "SASS",
             "level": "",
             "keywords": [
                 "",
@@ -320,7 +355,7 @@
             ]
         },
         {
-            "name": "Git",
+            "name": "Tailwind CSS",
             "level": "",
             "keywords": [
                 "",
@@ -343,16 +378,33 @@
         },
         {
             "language": "Ingles",
-            "fluency": "Nivel B1 TOEFL ITP Assessment "
+            "fluency": "Nivel B1"
         }
     ],
-    "interests": [
+    "others": [
         {
-            "name": "Wildlife",
-            "keywords": [
-                "Ferrets",
-                "Unicorns"
-            ]
+            "name": "Diseño UX"
+        },
+        {
+            "name": "Diseño UI"
+        },
+        { 
+            "name": "Diseño Centrado en el Usuario"
+        },
+        {
+            "name": "Librerias de Diseño"
+        },
+        {
+            "name": "Diseño Responsive"
+        },
+        {
+            "name": "Atomic Design"
+        },
+        {
+            "name": "Design Thinking"
+        },
+        {
+            "name": "Metodologías Ágiles"
         }
     ],
     "references": [
@@ -385,7 +437,6 @@
                 "Side Project",
                 "HTML",
                 "TypeScript",
-                "Node.js",
                 "Front-end",
                 "GitHub"
             ],
@@ -512,7 +563,6 @@
             "highlights":[
                 "Figma",
                 "UI/UX Design",
-                "Wireframes",
                 "Responsive Design",
                 "Design System"
             ],
@@ -529,7 +579,6 @@
                 "UI/UX Design",
                 "Responsive Design",
                 "Mobile Design",
-                "Weareable Design",
                 "Design System"
             ],
             "url": "https://www.figma.com/community/file/1283078639346112182/redesign-healthcheck-medical-mobile-app",
@@ -590,8 +639,7 @@
                 "Responsive Design",
                 "Design System",
                 "GitHub",
-                "Caso de Estudio",
-                "Story Mapping"
+                "Caso de Estudio"
             ],
             "url": "https://www.figma.com/community/file/1205620325712950079/diseno-de-sistema-web-para-la-gestion-de-las-actividades-culturales-y-deportiivas-de-la-utvco",
             "github": "https://github.com/Francisco-0510/sportUra",

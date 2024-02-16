@@ -14,10 +14,9 @@ import WorldMap from "@/icons/WorldMap.astro"
                 <li>
                   <article>
                     <header>
-                    
                       <h3>
                         <a href={url} target="_blank" title={`Ver el proyecto ${name}`}>
-                          {name}
+                          {name} 
                         </a>
                         {isActive && <span>•</span>}
                         {github && (
@@ -40,7 +39,6 @@ import WorldMap from "@/icons/WorldMap.astro"
                             <Figma />
                           </a>
                         )}
-                        
                       </h3>
                       <p>{description}</p>
                     </header>
@@ -61,8 +59,8 @@ import WorldMap from "@/icons/WorldMap.astro"
      ul {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 24px;
-    margin-inline: -16px;
+    gap: 1rem;
+    margin: auto;
   }
 
   article {
@@ -128,6 +126,7 @@ import WorldMap from "@/icons/WorldMap.astro"
   @media (width <= 700px) {
     ul {
       margin-inline: 0px;
+      gap: 1rem;
     }
 
     article {
