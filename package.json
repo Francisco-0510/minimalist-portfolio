@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@astrojs/check": "^0.5.4",
+    "@astrojs/netlify": "^5.1.2",
     "astro": "^4.3.7",
     "hotkeypad": "0.1.0",
     "ninja-keys": "^1.2.2",
