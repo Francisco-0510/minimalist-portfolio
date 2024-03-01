@@ -6,7 +6,7 @@
         "email": "francisco109623@gmail.com",
         "phone": "+52 9513915906",
         "url": "https://vicwithgg-portfolio.netlify.app/",
-        "summary": "+3 años de experiencia como Diseñador UI/UX. Actualmente me encuentro diseñando mi propio Kit de Diseño UI en Figma. He trabajado en diferentes entornos: desde diseñar sistemas web, sitios web, hasta el diseño y desarrollo de interfaces para empresas nacionales.",
+        "summary": "+3 años de experiencia como Diseñador UI/UX. Actualmente, me encuentro diseñando mi propio Kit de Diseño UI en Figma. He trabajado en diferentes entornos: desde diseñar sistemas web, sitios web, hasta el diseño y desarrollo de interfaces para empresas nacionales.",
         "location": {
             "address": "",
             "postalCode": "71300",
@@ -54,7 +54,7 @@
             "position": "Diseñador UI/UX ",
             "url": "",
             "startDate": "2022-02-01",
-            "endDate": null ,
+            "endDate": null,
             "summary": "Diseño de mi propio Kit de Diseño UX/UI en Figma VG Design UI Kit. Implementación de variables, estilos, Atomic Design y diseño responsivo para el diseño de componentes, asegurando que la librería sea escalable.",
             "highlights": [
                 ""
@@ -88,7 +88,7 @@
             "url": "",
             "startDate": "2019-02-01",
             "endDate": "2022-12-01",
-            "summary": "Diseñador UI/UX y Desarrollador Web en varios proyectos a lo largo de mi carrera. Lídere una convergencia técnica entre varios proyectos para encontrar soluciones óptimas. Implemente buenas prácticas y mejoras en mis procesos y resultados de diseño, adémas de entregas en tiempo y forma",
+            "summary": "Diseñador UI/UX y Desarrollador Web en varios proyectos a lo largo de mi carrera. Lideré una convergencia técnica entre varios proyectos para encontrar soluciones óptimas. Implementé buenas prácticas y mejoras en mis procesos y resultados de diseño, además de entregas en tiempo y forma.",
             "highlights": [
                 ""
             ]
@@ -144,7 +144,7 @@
         {
             "institution": "Universidad Tecnológica de los Valles Centrales de Oaxaca (UTVCO)",
             "url": "",
-            "area": "Ingeniería en Desarrollo y Gestión de Sotware Multiplataforma",
+            "area": "Ingeniería en Desarrollo y Gestión de Software Multiplataforma.",
             "studyType": "",
             "startDate": "2021-02-01",
             "endDate": "2022-01-01",
@@ -156,7 +156,7 @@
         {
             "institution": "Universidad Tecnológica de los Valles Centrales de Oaxaca (UTVCO)",
             "url": "",
-            "area": "Técnico Superior Universitario (T.S.U) en Tecnológias de la Información",
+            "area": "Técnico Superior Universitario (T.S.U) en Tecnologías de la Información.",
             "studyType": "",
             "startDate": "2019-02-01",
             "endDate": "2021-02-01",
@@ -224,7 +224,7 @@
             "url": " "
         },
         {
-            "name": "Certificado de Participación de Programa de Clases Espejo Estructura de Datos",
+            "name": "Certificado de Participación de Programa de Clases Espejo Estructura de Datos.",
             "date": "2019-12-01",
             "issuer": "SANTANDER / ANUIES",
             "url": " "
@@ -263,7 +263,7 @@
             "level": "Intermedio"
         },
         {
-            "name": "Github",
+            "name": "GitHub",
             "level": "Intermedio"
         },
         {
@@ -278,7 +278,6 @@
             "name": "Wireframmes",
             "level": "Intermedio - Avanzado"
         }
-
     ],
     "skills": [
         {
@@ -377,7 +376,7 @@
             "fluency": "Idioma Nativo"
         },
         {
-            "language": "Ingles",
+            "language": "Inglés",
             "fluency": "Nivel B1"
         }
     ],
@@ -388,7 +387,7 @@
         {
             "name": "Diseño UI"
         },
-        { 
+        {
             "name": "Diseño Centrado en el Usuario"
         },
         {
@@ -418,7 +417,7 @@
             "name": "VG Design UI Kit",
             "isActive": true,
             "description": "Mi propio Kit de Diseño UI/UX ⚡️ VG Design UI Kit ",
-            "highlights":[
+            "highlights": [
                 "Side Project",
                 "UI/UX Design",
                 "Figma",
@@ -432,7 +431,7 @@
             "name": "CV Minimalist",
             "isActive": true,
             "description": "Curriculum Minimalista maquetado para web y pdf usando ASTRO",
-            "highlights":[
+            "highlights": [
                 "Astro",
                 "Side Project",
                 "HTML",
@@ -444,7 +443,7 @@
             "github": "https://github.com/Francisco-0510/minimalist-portfolio.git"
         },
         {
-            "name": "Hospital Angel del Mar",
+            "name": "Hospital Ángel del Mar.",
             "isActive": false,
             "description": "Rediseño de Sitio Web para Hospital Ángel del Mar.",
             "highlights": [
@@ -460,7 +459,7 @@
             "name": "BETAJ",
             "isActive": false,
             "description": "Diseño de Sitio Web para empresa de Seguridad Privada BETAJ",
-            "highlights":[
+            "highlights": [
                 "Diseño UX",
                 "Figma",
                 "Adobe XD",
@@ -471,10 +470,10 @@
             "url": "https://betaj.mx/"
         },
         {
-            "name": "Taller de Innovación en la Estrategía Comercial",
+            "name": "Taller de Innovación en la Estrategia Comercial.",
             "isActive": false,
-            "description": "Diseño de Landing Page para el 'Taller de Innovación en la Estrategía Comercial', impartido por Gabriel Belsol.",
-            "highlights":[
+            "description": "Diseño de Landing Page para el 'Taller de Innovación en la Estrategia Comercial', impartido por Gabriel Belsol.",
+            "highlights": [
                 "Figma",
                 "Landing Page",
                 "UI/UX Design",
@@ -487,7 +486,7 @@
             "name": "Portafolio Web Personal v.1",
             "isActive": false,
             "description": "Desarrollo web de Portafolio Web Personal.",
-            "highlights":[
+            "highlights": [
                 "Front-end",
                 "HTML",
                 "CSS",
@@ -498,12 +497,11 @@
             "url": "https://vicwithgg.netlify.app/",
             "github": "https://github.com/Francisco-0510/portafolio-vicwithgg"
         },
-       
         {
             "name": "Portafolio Back-end developer",
             "isActive": false,
             "description": "Desarrollo de portafolio web para programador backend.",
-            "highlights":[
+            "highlights": [
                 "Front-end",
                 "HTML",
                 "CSS",
@@ -518,7 +516,7 @@
             "name": "Plantilla CV ",
             "isActive": false,
             "description": "Diseño de Plantilla de Curriculum Vitae  en Figma.",
-            "highlights":[
+            "highlights": [
                 "Figma",
                 "Template",
                 "UI/UX Design",
@@ -529,10 +527,10 @@
             "figma": "https://www.figma.com/community/file/1298753803594743798/cv-template"
         },
         {
-            "name": "Corridos Cap Ecommerce",
+            "name": "Corridos Cap. E-commerce",
             "isActive": false,
-            "description": "Diseño de Ecommerce 'Corridos Cap'",
-            "highlights":[
+            "description": "Diseño de E-commerce 'Corridos Cap'.",
+            "highlights": [
                 "Figma",
                 "Ecommerce",
                 "UI/UX Design",
@@ -545,8 +543,8 @@
         {
             "name": "Landing Page Maguey Oaxaca",
             "isActive": false,
-            "description": "Estructura basica de Landing Page y Diseño de Landing 'Maguey México'",
-            "highlights":[
+            "description": "Estructura básica de Landing Page y Diseño de Landing 'Maguey México'.",
+            "highlights": [
                 "Landing Page",
                 "UI/UX Design",
                 "Side Project",
@@ -557,10 +555,10 @@
             "figma": "https://www.figma.com/community/file/1300690124723803141/maguey-landing-page"
         },
         {
-            "name": "Reloj Checador y Sistema El Zapotal",
+            "name": "Reloj Checador y Sistema El Zapotal.",
             "isActive": false,
-            "description": "Diseño de interfaces de usuario para Reloj Checador y Sistema de Administración de Cafereria.",
-            "highlights":[
+            "description": "Diseño de interfaces de usuario para reloj, Checador y Sistema de Administración de Cafetería.",
+            "highlights": [
                 "Figma",
                 "UI/UX Design",
                 "Responsive Design",
@@ -573,8 +571,8 @@
         {
             "name": "Rediseño App Móvil HealthCheck",
             "isActive": false,
-            "description": "Rediseño de Aplicación Móvil HealthCheck (Dispositivos Móviles y wearables).",
-            "highlights":[
+            "description": "Rediseño de aplicación móvil HealthCheck (dispositivos móviles y wearables).",
+            "highlights": [
                 "Figma",
                 "UI/UX Design",
                 "Responsive Design",
@@ -588,7 +586,7 @@
             "name": "Smartwatch and Mobile App Design",
             "isActive": false,
             "description": "Diseño de Interfaces para Smartwatch",
-            "highlights":[
+            "highlights": [
                 "Mobile Design",
                 "Figma",
                 "UI/UX Design",
@@ -599,10 +597,10 @@
             "figma": "https://www.figma.com/community/file/1270644133161232117/healthcheck-smartwatch-and-mobile-devices-design"
         },
         {
-            "name": "Diseño de App Móvil/Weareable y Guía de Estilos",
+            "name": "Diseño de App Móvil/Wearable y Guía de Estilos.",
             "isActive": false,
-            "description": "Diseño de Interfaces para Smartwatch",
-            "highlights":[
+            "description": "Diseño de interfaces para Smartwatch.",
+            "highlights": [
                 "Mobile Design",
                 "Figma",
                 "UI/UX Design",
@@ -616,8 +614,8 @@
         {
             "name": "Arquitectura y Jerarquía de App Móvil",
             "isActive": false,
-            "description": "Mapas de Navegación y Wireflows de Aplicación Móvil y Aplicación para Smartwatch HealthCheck.",
-            "highlights":[
+            "description": "Mapas de navegación y Wireflows de aplicación móvil y aplicación para Smartwatch HealthCheck.",
+            "highlights": [
                 "Mobile Design",
                 "Figma",
                 "UI/UX Design",
@@ -629,10 +627,10 @@
             "figma": "https://www.figma.com/community/file/1125658163306261422/arquitectura-y-jerarquia-visual-app-healthcheck"
         },
         {
-            "name": "Sistema Web de Gestión de Tutorías Escolares",
+            "name": "Sistema Web de Gestión de Tutorías Escolares.",
             "isActive": false,
-            "description": "Sistema Web para la Gestión de Actividades Culturales y Deportivas de la UTVCO / Front-end",
-            "highlights":[
+            "description": "Sistema Web para la Gestión de Actividades Culturales y Deportivas de la UTVCO / Front-end.",
+            "highlights": [
                 "Figma",
                 "Ionic",
                 "Front-end",
@@ -648,8 +646,8 @@
         {
             "name": "BIT Tournament 2023",
             "isActive": false,
-            "description": "Diseño de Interfaces y Desarrollo de Front-end en Angular para Torneo de Videojuegos 'BIT Tournament 2023'",
-            "highlights":[
+            "description": "Diseño de Interfaces y Desarrollo de Front-end en Angular para Torneo de Videojuegos 'BIT Tournament 2023'.",
+            "highlights": [
                 "UI/UX Design",
                 "Figma",
                 "Front-end",
@@ -666,7 +664,7 @@
             "name": "User Story Mapping - BIT TOURNAMENT 2023",
             "isActive": false,
             "description": "Historias de Usuario, Mapas de Navegación para el Sistema de Videojuegos BIT TOURNAMENT 2023.",
-            "highlights":[
+            "highlights": [
                 "SCRUM",
                 "Figma",
                 "Front-end",
@@ -681,8 +679,8 @@
         {
             "name": "Sistema Venta de Boletos La Solteca",
             "isActive": false,
-            "description": "Diseño y Desarrollo Web  Sistema de Venta de Boletos para Empresa de Viajes 'La Solteca'",
-            "highlights":[
+            "description": "Diseño y Desarrollo Web Sistema de Venta de Boletos para la Empresa de Viajes 'La Solteca'.",
+            "highlights": [
                 "HTML",
                 "CSS",
                 "Front-end",
@@ -695,8 +693,5 @@
             "github": "https://github.com/Francisco-0510/Solteca",
             "figma": "https://www.figma.com/community/file/1104879810169038821/guia-de-estilos-sistema-de-venta-de-boletos-la-solteca"
         }
-            
-            
-        
     ]
 }
